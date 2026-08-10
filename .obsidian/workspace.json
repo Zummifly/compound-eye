@@ -11,12 +11,14 @@
             "id": "fe72f3eae4be587e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/复眼视觉系统/file-20260810182248945.png"
+                "file": "复眼视觉系统.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "file-20260810182248945"
+              "icon": "lucide-file",
+              "title": "复眼视觉系统"
             }
           }
         ]
@@ -187,8 +189,8 @@
   },
   "active": "fe72f3eae4be587e",
   "lastOpenFiles": [
-    "复眼视觉系统.md",
     "assets/复眼视觉系统/file-20260810182248945.png",
+    "复眼视觉系统.md",
     "assets/复眼视觉系统/file-20260810182105569.png",
     "assets/复眼视觉系统/file-20260810182045322.png",
     "assets/复眼视觉系统",
