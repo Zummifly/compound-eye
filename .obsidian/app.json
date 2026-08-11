@@ -2,6 +2,6 @@
   "promptDelete": false,
   "useMarkdownLinks": true,
   "newLinkFormat": "relative",
-  "attachmentFolderPath": "image",
+  "attachmentFolderPath": "/",
   "focusNewTab": true
 }

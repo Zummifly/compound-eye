@@ -11,14 +11,10 @@
             "id": "fe72f3eae4be587e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "复眼视觉.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "复眼视觉"
+              "title": "新标签页"
             }
           }
         ]
@@ -83,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 288.5
   },
   "right": {
     "id": "dc3e2c20ac844ebf",
@@ -187,12 +183,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fe72f3eae4be587e",
+  "active": "c17ef39bd128ae85",
   "lastOpenFiles": [
-    "assets/复眼视觉/file-20260810191140733.png",
+    "assets/未命名/file-20260810191615844.png",
+    "未命名.md",
+    "assets/未命名",
+    "assets",
+    "assets/复眼视觉/file-20260810191445428.png",
     "复眼视觉.md",
     "assets/复眼视觉",
-    "assets",
+    "assets/复眼视觉/file-20260810191140733.png",
     "image",
     "新建文件夹",
     "assets/复眼视觉/file-20260810190642084.png",
@@ -203,8 +203,6 @@
     "assets/复眼视觉/file-20260810190416211.png",
     "assets/复眼视觉/file-20260810190353422.png",
     "assets/复眼视觉/file-20260810190230485.png",
-    "assets/复眼视觉/file-20260810190247689.png",
-    "assets/复眼视觉/file-20260810190059269.png",
     "复眼视觉系统.md",
     "assets/复眼视觉系统",
     "assets/复眼视觉系统1",
