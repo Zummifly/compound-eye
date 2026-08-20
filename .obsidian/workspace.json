@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "复眼视觉/1.md",
+                "file": "复眼视觉/假设流程.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1"
+              "title": "假设流程"
             }
           }
         ]
@@ -189,8 +189,12 @@
   },
   "active": "97f1619ad8c61919",
   "lastOpenFiles": [
+    "复眼视觉/assets/假设流程",
+    "复眼视觉/assets/假设流程/file-20260820112318341.png",
+    "复眼视觉/假设流程.md",
+    "复眼视觉/assets/1",
+    "复眼视觉/assets",
     "复眼视觉/复眼视觉2.md",
-    "复眼视觉/1.md",
     "未命名",
     "复眼视觉/复眼视觉1.md",
     "复眼视觉",
@@ -209,9 +213,6 @@
     "assets/复眼视觉/file-20260810190501990.png",
     "assets/复眼视觉/file-20260810190416211.png",
     "assets/复眼视觉/file-20260810190353422.png",
-    "assets/复眼视觉/file-20260810190230485.png",
-    "复眼视觉系统.md",
-    "assets/复眼视觉系统",
-    "assets/复眼视觉系统1"
+    "复眼视觉系统.md"
   ]
 }
