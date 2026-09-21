@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "97f1619ad8c61919",
+            "id": "dd425d269d54bee0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "复眼视觉/假设流程.md",
+                "file": "英语.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "假设流程"
+              "title": "英语"
             }
           }
         ]
@@ -187,11 +187,12 @@
       "bases:新建数据库": false
     }
   },
-  "active": "97f1619ad8c61919",
+  "active": "dd425d269d54bee0",
   "lastOpenFiles": [
+    "复眼视觉/假设流程.md",
+    "英语.md",
     "复眼视觉/复眼视觉2.md",
     "复眼视觉/复眼视觉1.md",
-    "复眼视觉/假设流程.md",
     "复眼视觉/assets/假设流程/file-20260821154634664.png",
     "复眼视觉/assets/假设流程/file-20260821154601662.png",
     "复眼视觉/assets/假设流程/file-20260821154532109.png",
